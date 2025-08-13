@@ -1,4 +1,3 @@
-[// ...existing code...]
 # Airbnb Clone – User Stories Directory
 
 This directory contains user stories for the Airbnb Clone project. User stories are concise, user-centered descriptions of desired system functionality, written from the perspective of the end user or stakeholder. They are essential for guiding feature development, prioritizing tasks, and ensuring the system meets user needs.
